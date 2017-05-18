@@ -1,4 +1,4 @@
-# Стартап: «умный» бот, с которым может общаться пользователь и обучать его во время бесед.
+# Стартап: «умный» бот, с которым пользователь может общаться и обучать его во время бесед.
 
 ### SWOT-анализ
 #### Сильные стороны
@@ -25,11 +25,13 @@
 6. Трудно поддающаяся контролю перегруженность
 
 ### Диаграмма Исикавы
+![](https://github.com/JuliaMochalova/startUp/blob/master/Cause%20and%20Effect%20Diagram.png)
 
 ### Метод парных сравнений
-
+![](https://github.com/JuliaMochalova/startUp/blob/master/%D0%9F%D0%B0%D1%80%D0%BD%D0%BE%D0%B5%20%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5.png)
 ### Диаграмма Паретто
-
+![](https://github.com/JuliaMochalova/startUp/blob/master/%D0%9F%D0%B0%D1%80%D0%B5%D1%82%D0%BE.png)
 ### Сетевой график
-
+![](https://github.com/JuliaMochalova/startUp/blob/master/%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9.png)
 ### Диаграмма Ганта
+![](https://github.com/JuliaMochalova/startUp/blob/master/%D0%B3%D0%B0%D0%BD%D1%82%D0%B0.png)
